@@ -1,1 +1,1 @@
-# math441-comb-opt
+# math441: Combinatorial Optimization
